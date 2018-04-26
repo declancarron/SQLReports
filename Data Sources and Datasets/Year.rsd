@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>AdventureWorks2016</DataSourceReference>
+      <CommandText>SELECT DISTINCT YEAT(OrderDate) AS OrderYear
+FROM Sales.SalesOrderHeader
+ORDER BY OrderYear;</CommandText>
+    </Query>
+  </DataSet>
+</SharedDataSet>

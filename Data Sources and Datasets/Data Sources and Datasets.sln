@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Data Sources and Datasets", "Data Sources and Datasets.rptproj", "{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}.Debug|Default.ActiveCfg = Debug
+		{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}.Debug|Default.Build.0 = Debug
+		{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}.Debug|Default.Deploy.0 = Debug
+		{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}.DebugLocal|Default.Build.0 = DebugLocal
+		{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}.Release|Default.ActiveCfg = Release
+		{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}.Release|Default.Build.0 = Release
+		{58452926-5AB7-4B85-9CE7-6DC34C3F0FEA}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11FE6E6D-CE31-4C89-A601-BC229EFDF49C}
+	EndGlobalSection
+EndGlobal

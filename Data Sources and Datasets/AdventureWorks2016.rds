@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AdventureWorks2016">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=172.28.134.4;Initial Catalog=AdventureWorks2016CTP3</ConnectString>
+    <Prompt>Specify a user name and password for data source AdventureWorks2016:</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>c13d94c8-53b3-4998-a807-e80241d2c640</DataSourceID>
+</RptDataSource>

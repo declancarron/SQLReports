@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Student Housing">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=172.28.134.4;Initial Catalog=Housing</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>8e512661-4b05-41bf-80ac-3d3d586f5748</DataSourceID>
+</RptDataSource>
